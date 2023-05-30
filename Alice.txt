@@ -1,2 +1,3 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Great!
+Is the HEAD your current branch or its s Git’s internal way of indicating the snapshot that is currently checked out.
